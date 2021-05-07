@@ -1,0 +1,906 @@
+{
+    "c2array": true,
+    "size": [
+        28,
+        10,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Clogged bathroom sink"
+            ],
+            [
+                4
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "What is the most common cause of clogged bathroom sink?"
+            ],
+            [
+                "Toilet paper"
+            ],
+            [
+                "Hair"
+            ],
+            [
+                "Toothpaste"
+            ],
+            [
+                "Kleenex"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Clogged toilet"
+            ],
+            [
+                4
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "Most common tool for unclogging toilet?"
+            ],
+            [
+                "Coat hanger"
+            ],
+            [
+                "Liquid plumber"
+            ],
+            [
+                "Plunger"
+            ],
+            [
+                "Shop Vac"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Slow draining toilet"
+            ],
+            [
+                4
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "This DIY mixture can help unclog a slow drain:"
+            ],
+            [
+                "Baking soda & bleach"
+            ],
+            [
+                "Bakind soda & vinegar"
+            ],
+            [
+                "Baking soda & mineral spirits"
+            ],
+            [
+                "Baking soda & ginger ale"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Replace faucet"
+            ],
+            [
+                8
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "Which side is the hot water line typically on?"
+            ],
+            [
+                "Left"
+            ],
+            [
+                "Right"
+            ],
+            [
+                "West"
+            ],
+            [
+                "East"
+            ],
+            [
+                5
+            ]
+        ],
+        [
+            [
+                "Replace showerhead"
+            ],
+            [
+                4
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "What special tape do you apply to the threads before putting shower head on?"
+            ],
+            [
+                "Teflon"
+            ],
+            [
+                "Duct"
+            ],
+            [
+                "Gorilla"
+            ],
+            [
+                "Fiberglass"
+            ],
+            [
+                5
+            ]
+        ],
+        [
+            [
+                "Replace toilet"
+            ],
+            [
+                8
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "What special ring goes under the toilet to help seal?"
+            ],
+            [
+                "O-ring"
+            ],
+            [
+                "Silicone ring"
+            ],
+            [
+                "Wax ring"
+            ],
+            [
+                "Rubber ring"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Replace leaking sink trap"
+            ],
+            [
+                6
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "What is the curved section of pipe in the sink drain called?"
+            ],
+            [
+                "C Trap"
+            ],
+            [
+                "P Trap"
+            ],
+            [
+                "Tailpiece"
+            ],
+            [
+                "Stubout"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Fix clogged showerhead"
+            ],
+            [
+                4
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "What liquid can be used to unclog showerhead?"
+            ],
+            [
+                "Bleach"
+            ],
+            [
+                "Isopropyl alcohol"
+            ],
+            [
+                "Hydrogen peroxide"
+            ],
+            [
+                "Vinegar"
+            ],
+            [
+                8
+            ]
+        ],
+        [
+            [
+                "Replace a car battery"
+            ],
+            [
+                4
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "What can happen to the battery terminals that will affect battery performance?"
+            ],
+            [
+                "Rust"
+            ],
+            [
+                "Overheating"
+            ],
+            [
+                "Acid corrosion"
+            ],
+            [
+                "Erosion"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Jump start a dead car battery"
+            ],
+            [
+                4
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "Which colors go to which terminal?"
+            ],
+            [
+                "Black/Pos, Red/Neg"
+            ],
+            [
+                "Red/Pos, Black/Neg"
+            ],
+            [
+                "White/Pos, Black/Neg"
+            ],
+            [
+                "Black/Pos, White/Neg"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Replace brake pads"
+            ],
+            [
+                6
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "What is the name of the part that squeezes the brake pads together?"
+            ],
+            [
+                "Caliper"
+            ],
+            [
+                "Rotor"
+            ],
+            [
+                "Clamper"
+            ],
+            [
+                "Reducer"
+            ],
+            [
+                5
+            ]
+        ],
+        [
+            [
+                "Replace brake rotors"
+            ],
+            [
+                6
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "What is a sign of worn out brake rotors?"
+            ],
+            [
+                "Vehicle shakes when braking"
+            ],
+            [
+                "Vehicle pulls to the right or left"
+            ],
+            [
+                "Vehicle gets lower gas mileage"
+            ],
+            [
+                "Squeaking sound when braking"
+            ],
+            [
+                5
+            ]
+        ],
+        [
+            [
+                "Build a deck"
+            ],
+            [
+                12
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "What type of lumber should you use for an outdoor deck or structure?"
+            ],
+            [
+                "Heavy duty"
+            ],
+            [
+                "Commercial grade"
+            ],
+            [
+                "Pressure treated"
+            ],
+            [
+                "Organic"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Frame a simple roof"
+            ],
+            [
+                10
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "When calculating rafter length, what two numbers do you need?"
+            ],
+            [
+                "Length, width"
+            ],
+            [
+                "Rise, run"
+            ],
+            [
+                "Width, height"
+            ],
+            [
+                "Width, angle"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Replace roofing shingles"
+            ],
+            [
+                6
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "When installing shingles, where do you start?"
+            ],
+            [
+                "Top edge"
+            ],
+            [
+                "Right edge"
+            ],
+            [
+                "Left edge"
+            ],
+            [
+                "Bottom edge"
+            ],
+            [
+                8
+            ]
+        ],
+        [
+            [
+                "Operate a power drill"
+            ],
+            [
+                4
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "What do the numbers on the drill represent? "
+            ],
+            [
+                "Speed"
+            ],
+            [
+                "Velocity"
+            ],
+            [
+                "Strength"
+            ],
+            [
+                "Torque"
+            ],
+            [
+                8
+            ]
+        ],
+        [
+            [
+                "Frame a wall"
+            ],
+            [
+                8
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "Typically, how far apart are studs placed in the wall?"
+            ],
+            [
+                "12 inches"
+            ],
+            [
+                "14 inches"
+            ],
+            [
+                "16 inches"
+            ],
+            [
+                "24 inches"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Replace air filter (house)"
+            ],
+            [
+                2
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "How often replace home air filters?"
+            ],
+            [
+                "30-60 days"
+            ],
+            [
+                "Every 6 months"
+            ],
+            [
+                "Weekly"
+            ],
+            [
+                "Bi-monthly"
+            ],
+            [
+                5
+            ]
+        ],
+        [
+            [
+                "Frame a doorway"
+            ],
+            [
+                6
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "What are the outside edge studs of a door frame called?"
+            ],
+            [
+                "King studs"
+            ],
+            [
+                "Queen studs"
+            ],
+            [
+                "Frame studs"
+            ],
+            [
+                "Anchor studs"
+            ],
+            [
+                5
+            ]
+        ],
+        [
+            [
+                "Check brake pads"
+            ],
+            [
+                4
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "What is a sign of worn out brake pads?"
+            ],
+            [
+                "Vehicle shakes when braking"
+            ],
+            [
+                "Vehicle pulls to the right or left"
+            ],
+            [
+                "Vehicle gets lower gas mileage"
+            ],
+            [
+                "Squeaking sound when braking"
+            ],
+            [
+                8
+            ]
+        ],
+        [
+            [
+                "Add coolant"
+            ],
+            [
+                2
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "In an emergency, what can you add to the radiator instead of coolant?"
+            ],
+            [
+                "Milk"
+            ],
+            [
+                "Water"
+            ],
+            [
+                "Orange Juice"
+            ],
+            [
+                "Soy Sauce"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Install spare tire"
+            ],
+            [
+                6
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "What is the top speed to safely use a spare tire?"
+            ],
+            [
+                "25mph"
+            ],
+            [
+                "35mph"
+            ],
+            [
+                "50mph"
+            ],
+            [
+                "60mph"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Fix broken section PVC pipe"
+            ],
+            [
+                6
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "What gets applied to PVC pipe before the cement?"
+            ],
+            [
+                "Pipe cleaner"
+            ],
+            [
+                "Primer"
+            ],
+            [
+                "Sealer"
+            ],
+            [
+                "Pipe softener"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Fix broken copper pipe"
+            ],
+            [
+                8
+            ],
+            [
+                "Hearts"
+            ],
+            [
+                1
+            ],
+            [
+                "What gets applied to the copper pipe end before soldering?"
+            ],
+            [
+                "Cleaner"
+            ],
+            [
+                "Flux"
+            ],
+            [
+                "Sealer"
+            ],
+            [
+                "Nothing"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Replace electrical outlet"
+            ],
+            [
+                6
+            ],
+            [
+                "Spades"
+            ],
+            [
+                4
+            ],
+            [
+                "Which color wire typically is the \"load\" or the \"hot\" wire?"
+            ],
+            [
+                "White"
+            ],
+            [
+                "Green"
+            ],
+            [
+                "Blue"
+            ],
+            [
+                "Black"
+            ],
+            [
+                8
+            ]
+        ],
+        [
+            [
+                "Install baseboard"
+            ],
+            [
+                8
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "What is the small rounded piece of moulding that goes at base of the baseboard called?"
+            ],
+            [
+                "Base trim"
+            ],
+            [
+                "Shoe moulding"
+            ],
+            [
+                "Floor moulding"
+            ],
+            [
+                "Floor trim"
+            ],
+            [
+                6
+            ]
+        ],
+        [
+            [
+                "Replace a ceiling fan"
+            ],
+            [
+                8
+            ],
+            [
+                "Clubs"
+            ],
+            [
+                3
+            ],
+            [
+                "What should you always do before tackling an electrical repair job?"
+            ],
+            [
+                "Make sure the switch is off"
+            ],
+            [
+                "Make sure you are grounded"
+            ],
+            [
+                "Make sure the breaker is off"
+            ],
+            [
+                "Make sure you are wearing rubber shoes"
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "Replace a tile backsplash"
+            ],
+            [
+                10
+            ],
+            [
+                "Diamonds"
+            ],
+            [
+                2
+            ],
+            [
+                "What material goes in between the tile joints?"
+            ],
+            [
+                "Grout"
+            ],
+            [
+                "Mud"
+            ],
+            [
+                "Sealer"
+            ],
+            [
+                "Spacing compound"
+            ],
+            [
+                5
+            ]
+        ]
+    ]
+}
